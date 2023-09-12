@@ -43,6 +43,20 @@ body {
   width: 7em;
 }
 
+.div_imagem_headline{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  justify-content: center;
+}
+
+.imagem_headline{
+  width: 115%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .fb-comments {
   border: 1px solid #e9ebee;
   border-radius: 3px;
